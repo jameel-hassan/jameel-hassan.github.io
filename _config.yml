@@ -42,13 +42,14 @@ title-img: "/assets/img/JameelHassan.jpg"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "jameel.hassan.2014@eng.pdn.ac.lk"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#   facebook: 
+  github: "https://github.com/jameelhassan"
+  google-scholar: "https://scholar.google.com/citations?hl=en&user=Qt6o6wMAAAAJ"
+  linkedin: "https://www.linkedin.com/in/jameelhassan"
+#   twitter: 
+#   patreon: 
+#   youtube: 
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -62,7 +63,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+ 
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
