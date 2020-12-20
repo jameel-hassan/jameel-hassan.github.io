@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a research assistant at the Department of Electrical and Electronic Engineering, Faculty of Engineering, University of Peradeniya. I also work in the [COVID research group]"https://covid.eng.pdn.ac.lk" at University of Peradeniya. I focus on research related to two domains in my research assistantship; computer vision and smart grids. I recently graduated from the [University of Peradeniya] http://eng.pdn.ac.lk/ with a B.Sc specializing in Electrical & Electronic Engineering.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I spend my leisure time reading books, writing [(Medium)] https://medium.com/@jhassan.tck13 and doing Fretwork. See my works here. I enjoy playing both outdoor sports like football and basketball, and board games. 
